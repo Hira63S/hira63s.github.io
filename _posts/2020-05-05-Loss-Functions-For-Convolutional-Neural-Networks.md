@@ -10,8 +10,8 @@ comments: true
 
 # Loss Functions in Deep Learning
 
-I completed Calculus AB and BC during high school because I did not want to deal with mathematics during college despite loving the subject
-Somehow the general thought that math is hard seeped into me and I diverged from studying the subject. Little did I know that my journey into
+I completed Calculus AB and BC during high school because I did not want to deal with mathematics during college despite loving the subject.
+Somehow, the general consensus that math is hard seeped into me and I diverged from studying the subject. Little did I know that my journey into
 the field of deep learning would bring you right back to the driving derivatives that I enjoyed so much!
 
 This post is going to be a quick overview of loss functions used for different deep learning models and the math behind them.
