@@ -8,6 +8,9 @@
 # Name of website
 title: From Occipital Lobe to GPU Cores
 
+# Short Description:
+description: Metamorphosis of a Neuroscientist into a Deep Learning Scientist
+
 # Your name to show in the footer
 author: Hira Shahid
 
@@ -89,8 +92,17 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
-
+keywords:
+  - Computer Vision
+  - Deep Learning
+  - Artificial Intelligence Researcher
+  - Deep Learning Researcher
+  - Deep Learning Scientist
+  - Machine Learning Scientist
+  - Machine Learning Engineer
+  - Data Scientist
+  - Data engineer
+  
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
