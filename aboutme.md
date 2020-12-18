@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to go hitchhike around the galaxy with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a neuroscientist turned deep learning scientist who enjoys everything artistic, adventurous and futuristic. I am working on the important mission of making autonomous vehicles so that we can move onto automating other stuff. Once everything has gone according to plan, we should be able to take Starship to and from Mars and other planets or stars and go explore the universe.
