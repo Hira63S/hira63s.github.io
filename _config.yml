@@ -116,8 +116,7 @@ link-col: "#191970"
 hover-col: "#0085A1"
 footer-col: "DarkSlateGrey"
 footer-text-col: "Snow"
-footer-link-col: "Snow"
-
+footer-link-col: "DarkSlateGrey
 
 # navbar-col: "TURQUOISE"
 # navbar-text-col: "#191970"
